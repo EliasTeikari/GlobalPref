@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data files
+prompts.json
+response_pairs.json
+response_pairs_partial.json
+order_ids.json
+results_raw.json
+dataset.jsonl

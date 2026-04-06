@@ -1,0 +1,4 @@
+openai
+anthropic
+rapidata
+jupyter
