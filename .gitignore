@@ -17,8 +17,6 @@ venv/
 # Generated data files
 prompts.json
 response_pairs.json
-response_pairs_partial.json
 order_id.json
-order_ids.json
 results_raw.json
 dataset.jsonl
